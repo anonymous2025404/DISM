@@ -9,7 +9,7 @@ Check the config.py and change the filepath to your own path.
 Some of them may not be used.
 
 ## Data prepare
-There are three type of data files should be prepared.
+There are four type of data files should be prepared.
 1. Patients' clinical context.
 2. MIMIC reports with 14 labels.
 3. Previous case database(vdb).
