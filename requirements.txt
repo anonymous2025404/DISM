@@ -1,0 +1,15 @@
+torch==2.6.0
+torchvision==0.13.1
+opencv-python==4.10.0.84
+transformers==4.47.0
+spacy==3.4.4
+sentence-transformers==2.2.2
+albumentations==1.1.0
+bert-score==0.3.13
+datasets==2.3.2
+faiss-gpu==1.7.2
+imageio==2.35.1
+langchain-community==0.3.11
+matplotlib==3.5.2 
+numpy==1.23.0 
+pillow==10.4.0
